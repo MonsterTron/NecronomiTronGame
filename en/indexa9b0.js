@@ -3,7 +3,7 @@ web({
     api: 'https://dappcall.com/',
     apiVersion: '4',
     smart_contract_address: 'TFRLa5AW6WSQ7wqzz4vVWgLeZPFNb52X8C',
-    api_contract_address: 'TXLJjo63J6iVFJJyxSoPVZf3FxGhfHSTTz',
+    api_contract_address: 'TFRLa5AW6WSQ7wqzz4vVWgLeZPFNb52X8C',
     rate: 5,
     build_cost: [
         4000, 10000, 50000, 100000, 1000000, 10000000
